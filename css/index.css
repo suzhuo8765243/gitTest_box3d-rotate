@@ -1,3 +1,14 @@
+/* 组件化3D盒子（旋转） 标准板页
+<div class="box_3D">
+    <div></div> <!-- 上 -->
+    <div></div> <!-- 下 -->
+    <div></div> <!-- 前 -->
+    <div></div> <!-- 后 -->
+    <div></div> <!-- 左 -->
+    <div></div> <!-- 右 -->
+</div> */
+
+/* 与盒子无关的样式
 * {
     padding: 0;
     margin: 0;
@@ -8,7 +19,7 @@ html,body {
 body {
     background: url(../img/bac.jpg) no-repeat;
     background-size: 100% 100%;
-}
+} */
 .box_3D {
     width: 240px;
     height: 240px;
